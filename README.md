@@ -1,0 +1,1 @@
+# rax-static-view
