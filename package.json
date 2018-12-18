@@ -1,6 +1,6 @@
 {
   "name": "rax-static-view",
-  "version": "0.6.7",
+  "version": "0.6.8",
   "description": "View component for Rax.",
   "license": "BSD-3-Clause",
   "main": "lib/index.js",
@@ -9,6 +9,9 @@
     "build": "rax-scripts build",
     "lint": "eslint --ext .js --ext .jsx ./src"
   },
+  "files": [
+    "dist"
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/raxjs/rax-static-view.git"
